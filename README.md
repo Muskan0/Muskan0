@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Django.
 - 👯 I’m looking to collaborate on cool Web Dev projects.
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I am a feminist and a writer
+- ⚡ Fun fact: I love python.:upside_down_face:	
 
 
 <br>
